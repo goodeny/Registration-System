@@ -16,3 +16,6 @@ I create a CRUD(CREATE, READ, UPDATE, DELETE) I sync with a front-end(GUI INTERF
 
 ## Logs
 Any function you use in software will be save in the logs, the logs show and save what you delete, edit, add and open. The software mark the time in logs too
+
+## Screenshot
+![software1](https://user-images.githubusercontent.com/32174827/233335365-271895a6-e08c-4b04-823a-d9b41c45d0d3.png)
