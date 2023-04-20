@@ -11,7 +11,7 @@ class App:
         self.window = Tk()
         self.center_screen(800,500)
         self.window.resizable(0,0)
-        self.window.title("Unhappy moment software")
+        self.window.title("Software")
         #label to inputs and labels
         self.label_inputs = Label(self.window)
         self.label_inputs.grid(row=0, column=1)
